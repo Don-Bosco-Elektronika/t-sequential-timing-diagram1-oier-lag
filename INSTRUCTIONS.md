@@ -13,18 +13,6 @@
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
 | ez dago | ez dago       | ez dago | ez dago | 
 
-**Ariketa (EU): (ZENBAKIA IDATZI)**  
-| Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
-|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? |  
-
-**Exercice (EN): (WRITE THE NUMBER)**  
-| Name                     | Chip number | Symbol         | Description of Operation                                                               |
-|---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ? | ? | ? |  
-
----
-
 ## Tabla de la verdad
 
 | Entrada A | Entrada B | Entrada C | Salida    | Salida |
@@ -34,40 +22,65 @@
 | 1         | 1         | 0         | ░1░       | ░1░    |
 | 1         | 1         | 1         | ░0░       | ░0░    |
 
-----
+
 
 ## 🔲 Circuitos a Simular / Simulatzeko Zirkuituak / Circuits to Simulate
 
-*(Añade aquí la captura de proteus)*
+*(ez dago)*
 
----
+
 
 ## 🔲 Resultado del Cronograma / Kronogramaren Emaitza / Timing Diagram Result
 Circuito A
 
-*(Añade aquí la captura del WaveDrom)*
+*(<img width="564" height="359" alt="image" src="https://github.com/user-attachments/assets/fb35c876-609e-4793-8690-da111c00682c" />
+)*
 
 Circuito B
 
-*(Añade aquí la captura del WaveDrom)*
+*(<img width="539" height="350" alt="image" src="https://github.com/user-attachments/assets/077972e2-7fe2-427a-8b5d-7ce2e82c3f01" />
+)*
 
-... AÑADE LO MÁS CIRCUITOS
 
----
+
+
 
 
 ## 🔲 Código del Cronograma / Kronogramaren Kodea / Timing Diagram Code
 Circuito A
 
-*(Añade aquí el código del WaveDrom)*
+*({signal: [
+
+  {name: 'T', wave: '01.0.1.0...1..01.'},
+  
+  {name: 'clk',  wave: 'P................'},
+  
+  {},
+  
+  {name: 'Q', wave: '0.10..10....101.0'},
+  
+  {name: '-Q', wave: '1.01..01....010.1'}
+  
+]}
+)*
 
 Circuito B
 
-*(Añade aquí el código del WaveDrom)*
+*({signal: [
 
-... AÑADE LO MÁS CIRCUITOS
+  {name: 'T', wave: '01.0.1.0...1..01.'},
+  
+  {name: 'clk',  wave: 'N................'},
+  
+  {},
+  
+  {name: 'Q', wave: '0.10..10....101.0'},
+  
+  {name: '-Q', wave: '1.01..01....010.1'}
+  
+]}
+)*
 
----
 
 
 ## 📤 Entrega / Igo / Upload  

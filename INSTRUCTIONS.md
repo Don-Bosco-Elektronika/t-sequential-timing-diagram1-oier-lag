@@ -11,7 +11,7 @@
 **Ejercicio (ES): (ESCRIBE EL NÚMERO)**  
 | Nombre                     | Número de Chip | Símbolo         | Descripción del Funcionamiento                                                                 |
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? | 
+| ez dago | ez dago       | ez dago | ez dago | 
 
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
